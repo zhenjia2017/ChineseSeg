@@ -1,4 +1,5 @@
-package org.liao.seg.demo;
+package com.swjtu.chineseseg;
+
 
 import java.io.IOException;
 
